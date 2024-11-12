@@ -160,13 +160,13 @@
   }
   
   a {
-    color: #b1ff57;
+    color: #ff7a57;
     text-decoration: none;
     background-color: transparent;
   }
   
   a:hover {
-    color: #0ac950;
+    color: #ff5c31;
     text-decoration: underline;
   }
   
@@ -7139,13 +7139,13 @@
   }
   
   .bg-primary {
-    background-color: #b1ff57 !important;
+    background-color: #ff7a57 !important;
   }
   
   a.bg-primary:hover, a.bg-primary:focus,
   button.bg-primary:hover,
   button.bg-primary:focus {
-    background-color: #0ac950 !important;
+    background-color: #ff5c31 !important;
   }
   
   .bg-secondary {
