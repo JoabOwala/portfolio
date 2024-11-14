@@ -19,7 +19,7 @@ This website is built using the following technologies:
 - **Hosting**: GitHub Pages
 
 ## #Access 
-Link: 
+Link: https://joabowala.github.io/portfolio/
 
 ## #Contact
 Email: owalajoab@gmail.com
